@@ -9,3 +9,7 @@ pasos = cartoonize(rgb_image)
 
 for i, paso in enumerate(pasos):
     cv2.imwrite(path.join(file_path, 'Paso{}.png'.format(i+1)), paso)
+
+
+
+#hola este es un cambio jaja para
